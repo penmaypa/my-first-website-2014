@@ -1,0 +1,23 @@
+#heading
+	{
+		width: 300px;
+		margin-left: 100px; 
+		background-color:#ffffff;
+	}
+
+#body
+	{
+		width: 1000px;
+		margin-top: 0px;
+		margin-left: 20px;
+		background-color:#ffffff;
+	}
+	
+
+#image
+	{
+		width: 900px;
+		margin-top: 50px;
+		margin-left: 40px;
+		border:	4px solid white;
+	}

@@ -1,0 +1,21 @@
+
+#body
+	{
+		margin-left: 100px ;
+		background-color:#ffffff;
+		border: 3px solid black;
+		margin-right: 100px;		
+	}
+	
+#border
+	{
+		margin-top: 30px;
+		margin-left: 30px;
+		margin-right: 30px;
+		margin-bottom: 30px;
+	}
+
+#address
+	{
+		margin-left: 20px;
+	}

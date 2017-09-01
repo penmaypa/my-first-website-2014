@@ -1,0 +1,83 @@
+* 									{ margin: 0; padding: 0; }
+
+p.hoverselection	{ font: 15px Helvetica, Sans-Serif; }
+
+									/*Font Size of the nav */
+nav								{ font: 20px Helvetica, Sans-Serif; } 
+
+									/* Margin*/
+#page-wrap							{ width: 1100px; margin: 25px auto; } 
+a									{ text-decoration: none; }
+ul									{ list-style: none; }
+p                                   { margin: 15px 0; }
+
+/* 
+	LEVEL ONE
+*/
+ul.dropdown                         { position: relative;}
+ul.dropdown li                      { font-weight: bold; float: left; zoom: 1; background: #ccc; }
+ul.dropdown a:hover		            { color: #000; }
+ul.dropdown a:active                { color: #ffa500; }
+ul.dropdown li a                    { display: block; padding: 4px 8px; border-right: 1px solid #333;
+	 								  color: #222; }
+ul.dropdown li:last-child a         { border-right: none; } /* Doesn't work in IE -- Penuel Maypa */
+ul.dropdown li.hover,
+ul.dropdown li:hover                { background: #F3D673; color: black; position: relative; }
+ul.dropdown li.hover a              { color: black; }
+
+
+/* 
+	LEVEL TWO
+*/
+ul.dropdown ul 						{ width: 220px; visibility: hidden; position: absolute; top: 100%; left: 0; }
+ul.dropdown ul li 					{ font-weight: normal; background: #f6f6f6; color: #000; 
+									  border-bottom: 1px solid #ccc; float: none; }
+									  
+                                    /* IE 6 & 7 Needs Inline Block */
+ul.dropdown ul li a					{ border-right: none; width: 100%; display: inline-block; } 
+
+/* 
+	LEVEL THREE
+*/
+ul.dropdown ul ul 					{ left: 100%; top: 0; }
+ul.dropdown li:hover > ul 			{ visibility: visible; }
+
+
+/*Audio*/
+#audio 	{
+		position: absolute;
+		width: 250px;
+		margin-top:-100px;
+		margin-left: 950px;
+		}
+
+
+/*Body*/
+
+div.welclub  {position: none ; width: 1000px; margin: 5px auto;}
+#welcome {font-family:Arial,Helvetica,sans-serif;}
+#hhclub {font-family:"algerian",Times,serif;
+		font-size: 400%;}
+		
+								/* width (This will change the size of image --- Penuel Maypa)*/
+div.imagelink {position: none ; width: 1750px; margin; 20px auto;}
+#abtus {position: none ; width: 1500px; margin: 5px auto;}
+
+							/* left -- higher the value, the to move to right*/
+#abtusfont {position: absolute; left:600px ; width:500px; margin:-200px auto;}
+
+
+				
+#actfont {
+			position: absolute; 
+			left:120px; 
+			width:500px; 
+			margin:90px auto; /*margin: 3px higher value to go down*/
+		}
+
+div.actimlink {
+				position: absolute ; 
+				left: 500px; 
+				width: 1750px; 
+				margin; 8px auto;
+			}

@@ -1,0 +1,103 @@
+{ margin: 0; padding: 0; }
+
+#mainheading	{
+			position: none ; 
+			width: 320px; 
+			margin: 5px;
+			margin-left:300px;
+			}  
+
+#fantro 		{
+			margin:20px 100px;
+			 background-color:#ffffff;
+			 filter:alpha(opacity=40);
+				
+			position: none ; 
+			width: 1000px; 
+			margin-top: 5px;
+			margin-left:150px;
+			}  
+		
+
+/*Image to the right*/
+#null {
+			position: none ; 
+			width:500px;
+			margin-top: 100px;
+			margin-left:600px; 
+			
+			}
+ /*Paragraph to the left*/
+ 
+ #null	{
+			position: none ; 
+			width: 500px; 
+			margin-top: -330px;
+			margin-left:50px;
+			}  
+			
+			
+			/*left par*/
+ #musicstu	{
+ 			margin:20px 100px;
+			 background-color:#ffffff;
+			 filter:alpha(opacity=40);
+ 
+			position: none ; 
+			width: 500px; 
+			margin-top: 150px;
+			margin-left:50px;
+			}  
+			
+			/*right image*/
+#musicstuimg {
+			position: none ; 
+			width:600px;
+			margin-top: -350px;
+			margin-left:600px; 		
+			}
+
+			
+			/*right image*/
+#dancestuimg {
+			position: none ; 
+			width:600px;
+			margin-top: 80px;
+			margin-left:20px; 		
+			}
+			
+			/* left par*/
+#dancestu	{
+ 			margin:20px 100px;
+			 background-color:#ffffff;
+			 filter:alpha(opacity=40);
+ 
+			position: none ; 
+			width: 500px; 
+			margin-top: -350px;
+			margin-left:650px;
+			}
+
+				
+			/*left par*/
+ #game	{
+ 			margin:20px 100px;
+			 background-color:#ffffff;
+			 filter:alpha(opacity=40);
+ 
+			position: none ; 
+			width: 500px; 
+			margin-top: 150px;
+			margin-left:50px;
+			}  
+			
+			/*right image*/
+#gameimg {
+			position: none ; 
+			width:600px;
+			margin-top: -350px;
+			margin-left:600px; 		
+			}		
+
+
+			

@@ -1,0 +1,127 @@
+
+#heading 	{
+			position: none ; 
+			width: 300px; 
+			margin: 5px;
+			margin-left:90px;
+			}  
+	
+#actclasses {
+			position: none;
+			width: 600px;
+			margin-top:10px;
+			margin-left: 50px;
+		background-color:#ffffff;
+			}
+
+			 /*Image to the right*/
+#actimlink  {
+				position: none ; 
+				width:500px;
+				margin-top:-400px;
+				margin-left:750px; 
+			}
+
+				/*To the right*/
+#rapbat  		{
+			position: none;
+			width: 600px;
+			margin-top:-50px;
+			margin-left: 600px;
+			background-color:#ffffff;
+
+			}
+			
+#heading2	{
+			position: none ; 
+			width: 300px; 
+			margin-top: 100px;
+			margin-left:700px;
+			}  
+
+			/*to the left*/
+#rapbatimg {
+				position: none ; 
+				width:500px;
+				margin-top:-250px;
+				margin-left:50px; 
+			}
+			
+			
+/*Image to the right*/
+#beatsimg {
+			position: none ; 
+			width:500px;
+			margin-top: 100px;
+			margin-left:600px; 
+			
+			}
+ /*Paragraph to the left*/
+ 
+ #heading3	{
+			position: none ; 
+			width: 500px; 
+			margin-top: -330px;
+			margin-left:50px;
+			}  
+ 
+#beatsmk	{
+				
+				 width:800px;
+				 height:270px;
+							
+						/*y     z  */
+				 margin:20px 100px;
+				 background-color:#ffffff;
+				 filter:alpha(opacity=60); 
+
+
+
+				position: none ; 
+				width:500px;
+				margin-top:-50px;
+				margin-left:50px; 
+			}
+
+#hopdanceivid {
+				position: none ; 
+				width:400px;
+				margin-top:-1px;
+				margin-left:10px; 
+			}
+
+#heading4 {
+			position: none ; 
+			width:500px;
+			margin-top: -300px;
+			margin-left:650px; 
+			}
+			
+#hopdance{
+			 margin:20px 100px;
+			 background-color:#ffffff;
+			 filter:alpha(opacity=60);
+			
+			position: none ; 
+			width:600px;
+			margin-top: -20px;
+			margin-left:650px; 
+			}
+
+#hopdance1{
+			 margin:20px 100px;
+			 background-color:#ffffff;
+			 filter:alpha(opacity=60);
+			
+			position: none ; 
+			width:600px;
+			margin-top: 80px;
+			margin-left: 10px; 
+			}
+
+#breakdance {
+			position: none ; 
+			width:700px;
+			margin-top: -200px;
+			margin-left:650px;
+			}
